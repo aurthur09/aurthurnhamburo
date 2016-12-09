@@ -2,8 +2,10 @@
 TITLE: 
 twist airlines-
 
-AUTHOR:
-DESIGNED & DEVELOPED by aurthur nhamburo.: http:/o
+AUTHOR: DEVELOPED by aurthur nhamburo.
+
+ABOUT: an airlines site with a booking form
+CODE: html. css. php form.
 
 
 CREDITS:
@@ -47,6 +49,4 @@ http://www.owlcarousel.owlgraphic.com/
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
 
-Demo Images:
-http://unsplash.com
 
